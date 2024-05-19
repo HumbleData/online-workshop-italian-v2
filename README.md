@@ -8,4 +8,4 @@ This workshop uses Jupyter Lite as a solution to run the Jupyter Notebooks with 
 
 ## ✨ Try it in your browser ✨
 
-➡️ **[[https://jupyterlite.github.io/demo](http://humbledata.org/online-workshop-italian-v2/)**
+➡️ **[http://humbledata.org/online-workshop-italian-v2/](http://humbledata.org/online-workshop-italian-v2/)**
