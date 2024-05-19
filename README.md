@@ -1,6 +1,6 @@
 # JupyterLite Demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://laisbsc.github.io/HD-workshop-italian/lab/index.html)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://humbledata.github.io/HD-workshop-italian/lab/index.html)
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
