@@ -1,11 +1,12 @@
-# Bienvenuto a Humble Data Workshop in Italian! 🇮🇹
+# Ti diamo il benvenuto al workshop di Humble Data in italiano. 🇮🇹
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](http://humbledata.org/online-workshop-italian-v2/)
 
-We are glad you have joined us for Humble Data today.
+Siamo felici che oggi sara con noi per Humble Data!
 
-This workshop uses Jupyter Lite as a solution to run the Jupyter Notebooks with the content. To start, you need to click on the URL below and open the files in the `notebooks` folder.
+In questo workshop viene utilizzato Jupyter Lite per eseguire i Jupyter Notebook in cui troverai tutti i materiali.   
+Per iniziare, fai clic sul link sottostante e apri i file nella cartella 'notebook'.
 
-## ✨ Try it in your browser ✨
+## ✨ Prova nel tho browser ✨
 
 ➡️ **[http://humbledata.org/online-workshop-italian-v2/](http://humbledata.org/online-workshop-italian-v2/)**
