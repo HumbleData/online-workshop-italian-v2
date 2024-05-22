@@ -1,29 +1,12 @@
-# JupyterLite Demo
+# Ti diamo il benvenuto al workshop di Humble Data in italiano. 🇮🇹
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://humbledata.github.io/HD-workshop-italian/lab/index.html)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](http://humbledata.org/online-workshop-italian-v2/)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+Siamo felici che oggi sara con noi per Humble Data!
 
-## ✨ Try it in your browser ✨
+In questo workshop viene utilizzato Jupyter Lite per eseguire i Jupyter Notebook in cui troverai tutti i materiali.   
+Per iniziare, fai clic sul link sottostante e apri i file nella cartella 'notebook'.
 
-➡️ **[https://jupyterlite.github.io/demo](https://laisbsc.github.io/HD-workshop-italian/lab/index.html)**
+## ✨ Prova nel tho browser ✨
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
-
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+➡️ **[http://humbledata.org/online-workshop-italian-v2/](http://humbledata.org/online-workshop-italian-v2/)**
